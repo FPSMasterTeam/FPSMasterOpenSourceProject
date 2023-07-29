@@ -1,0 +1,13 @@
+/target/
+/jars/
+/.idea/
+/out/
+/Game/
+/Bootstrap/target/
+/build/
+/logs/
+/.fleet/
+/bin/
+/.gradle/
+/gradle/
+/1.12.2/
