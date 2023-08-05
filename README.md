@@ -4,7 +4,6 @@
 * FOSP(FPSMaster开源项目) 不同于其上游FPSMaster，FOSP是一个开源项目，你可以自由地使用、修改、分发和再许可本项目的代码。
 * 开发人员：`@vlouboos` `@SuperSkidder` `@QianXia`
 * 目前为止，FPSMaster版本为2.52
-如何使用
 ## 特性/功能
 * 帧数优化
 * PVP功能
